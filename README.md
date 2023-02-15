@@ -53,9 +53,13 @@ Output page if the mushroom is poisonous
 
 
 ## 🎓Authors
-* Arun sreeram R
-* Lokesh R
-* Chandru M
-* Prathiban V
+
+- [@Arun sreeram R](https://github.com/Arunsreeram41)
+
+- [@Chandru M](https://github.com/CHANDRU-34)
+
+- [@Prathiban V](https://github.com/pattu1729)
+
+- [@Lokesh R](https://github.com/lokesh862)
 
 
