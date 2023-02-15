@@ -32,6 +32,12 @@ mushrooms.csv
 * in the input page give the input values
 * click the predict button
 * the predicted output will be shown in the output page
+* (Or) 
+* you can run the python file in virtual environment
+* for that first create virtual environment using the command "python -m venv venv"
+* then activate the virtual environment using the command "venv\Scripts\activate"
+* now install the required libraries in the virtual environment
+* Now run the python file
 
 ## 📷Output screenshots:
 <img width="608" alt="image" src="https://user-images.githubusercontent.com/87647108/218822985-e9633759-9de5-47e4-9e2c-cb69288a9488.png">
