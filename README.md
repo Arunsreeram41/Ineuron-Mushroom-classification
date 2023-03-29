@@ -15,11 +15,11 @@ This project aims to determine if a certain mushroom is edible or poisonous by i
 
 ## 🎯Models used:
 * Decision Tree Classifier
-* Logistic Regression Classifier
-* k-Nearest Neighbor Classifier
-* Support Vector Machine Classifier
-* Naive Bayes Classifier
 * Random Forest Classifier
+* Ada Boost
+* Gradient Boosting
+* XGBoost
+
 
 ## 📜Dataset:
 mushrooms.csv
